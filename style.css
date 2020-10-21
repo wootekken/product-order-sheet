@@ -1,0 +1,28 @@
+.container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.title {
+    font-weight: bold;
+    width: 80px;
+    float: left;
+}
+
+fieldset {
+    margin: 15px 10px;
+}
+
+fieldset legend {
+    color: purple;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
